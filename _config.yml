@@ -99,15 +99,15 @@ keywords: "Interaction Design,HCI,Participatory Design,Research"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#1C1D1F"
-navbar-text-col: "#C0A800"
-navbar-border-col: "#C0A800"
+navbar-text-col: "#DFC616"
+navbar-border-col: "#DFC616"
 page-col: "#1C1D1F"
 text-col: "#F6F2ED"
-link-col: "#C0A800"
+link-col: "#DFC616"
 hover-col: "#86918A"
 footer-col: "#1C1D1F"
 footer-text-col: "#F6F2ED"
-footer-link-col: "#C0A800"
+footer-link-col: "#DFC616"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
