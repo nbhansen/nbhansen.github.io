@@ -2,15 +2,14 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+permalink: /about/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi everyone! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+thanks for checking out my website, I am doing my best to get it in order as fast as humanly possible. For now, I urge you to check out the [Research](research) and [Teaching](teaching) sections of the website. 
 
-What else do you need?
+### Contact me
 
-### My story
+[nbhansen@gmail.com](mailto:nbhansen@gmail.com)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
