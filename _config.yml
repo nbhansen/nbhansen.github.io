@@ -83,10 +83,10 @@ share-links-active:
 url-pretty: "nbhansen.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 500
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
@@ -98,16 +98,16 @@ keywords: "Interaction Design,HCI,Participatory Design,Research"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#81BABD"
-navbar-text-col: "#1C2433"
-navbar-border-col: "#DDDDDD"
-page-col: "#EEF2F2"
-text-col: "#1C2433"
-link-col: "#566786"
-hover-col: "#1C89B8"
-footer-col: "#81BABD"
-footer-text-col: "#1C89B8"
-footer-link-col: "#566786"
+navbar-col: "#DCB762"
+navbar-text-col: "#1A0F1C"
+navbar-border-col: "#DCB762"
+page-col: "#EDDD6E"
+text-col: "#1A0F1C"
+link-col: "#624369"
+hover-col: "#DCB762"
+footer-col: "#DCB762"
+footer-text-col: "#1A0F1C"
+footer-link-col: "#624369"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
