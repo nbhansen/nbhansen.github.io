@@ -189,7 +189,11 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
+  font-weight: 700;
+
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: ##F6F2ED;
+
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
