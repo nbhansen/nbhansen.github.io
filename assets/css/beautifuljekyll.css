@@ -192,7 +192,7 @@ img {
   font-weight: 600;
 
   -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color: ##F6F2ED;
+  -webkit-text-stroke-color: #F6F2ED;
 
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
