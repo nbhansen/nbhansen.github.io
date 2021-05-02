@@ -63,7 +63,7 @@ hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
-  border-color: inherit;
+  border-color: #EACD00;
   border-radius: 0.1875rem;
 }
 
@@ -191,8 +191,7 @@ img {
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 600;
 
-  -webkit-text-stroke-width: 0.2px;
-  -webkit-text-stroke-color: #F6F2ED;
+
 
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
