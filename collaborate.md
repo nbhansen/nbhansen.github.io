@@ -2,7 +2,7 @@
 layout: page
 title: Collaborate?
 subtitle: Lets make some magical research together!
-permalink: /collaborate
+permalink: /collaborate/
 
 ---
 
