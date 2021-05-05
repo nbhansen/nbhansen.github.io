@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 On this page you will find my list of publications - its a bit of a work in progress as I would, over time, like to add preprint versions and DOIs to everything but for now, this is what you get. Sorry.
 
-Do you think we have something in common? then we definitely should [collaborate](collaborate) on something.
+Do you think we have something in common? then we definitely should [collaborate](../collaborate) on something.
 
 ---------------------------------------------------------
 
