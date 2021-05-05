@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 Hi everyone!
 
-thanks for checking out my website, I am doing my best to get it in order as fast as humanly possible. For now, I urge you to check out the [Research](../cuntresearch) and [Teaching](../teaching) sections of the website. 
+thanks for checking out my website, I am doing my best to get it in order as fast as humanly possible. For now, I urge you to check out the [Publications](../publications) and [Teaching](../teaching) sections of the website. 
 
 ### Contact me
 
