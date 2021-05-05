@@ -66,7 +66,6 @@ Hansen, N. B., & Dalsgaard, P. (2012). The productive role of material design ar
 
 Korsgaard, H., Hansen, N. B., Basballe, D., Dalsgaard, P., & Halskov, K. (2012). Odenplan: A media façade design process. *Proceedings of the 4th Media Architecture Biennale Conference: Participation*, 23–32.
 
--------------------------------------------------
 
 ### Workshops, position papers demos and other stuff (by year)
 ----------------
