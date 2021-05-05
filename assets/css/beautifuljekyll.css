@@ -20,13 +20,7 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
-          hr {
-            max-width: 6.25rem;
-            margin: 1rem auto;
-            border-width: 0.25rem;
-            border-color: #EACD00;
-            border-radius: 0.1875rem;
-          }
+
 }
 
 p {
@@ -68,7 +62,13 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
-
+hr {
+  max-width: 6.25rem;
+  margin: 1rem auto;
+  border-width: 0.25rem;
+  border-color: #EACD00;
+  border-radius: 0.1875rem;
+}
 
 hr.small {
   max-width: 6.25rem;
