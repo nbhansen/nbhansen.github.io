@@ -1,13 +1,9 @@
 ---
 layout: page
 title: Teaching
-subtitle: Teaching approach: Let's work together! 
+subtitle: Let's work together!
 permalink: /teaching/
 ---
-
-# RESEARCH IS HAPPENING IN HERE YO
-
-
 
 i WONDER what would happen... if one were to...
 
