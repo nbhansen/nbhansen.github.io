@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+subtitle: Teaching approach: Let's work together! 
 permalink: /teaching/
 ---
 
@@ -8,9 +9,9 @@ permalink: /teaching/
 
 
 
-i WONDER what would happen... if one were to... 
+i WONDER what would happen... if one were to...
 
-## use various header sizes down this page? 
+## use various header sizes down this page?
 
 ---------
 
