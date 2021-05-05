@@ -69,6 +69,7 @@ Korsgaard, H., Hansen, N. B., Basballe, D., Dalsgaard, P., & Halskov, K. (2012).
 -------------------------------------------------
 
 ### Workshops, position papers demos and other stuff (by year)
+----------------
 
 #### 2020
 Hansen, N. B., Klerks, G., Menendez Blanco, M., Maye, L., Strohmayer, A., De Waal, M., & Schouten, B. (2020). Making civic initiatives last: Ecosystems, technologies, approaches and challenges. *Companion Publication of the 2020 ACM Designing Interactive Systems Conference*, 433–436.
