@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaborate?
+title: Collaborate
 subtitle: Lets make some magical research together!
 permalink: /collaborate/
 
