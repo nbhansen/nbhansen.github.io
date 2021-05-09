@@ -2,11 +2,12 @@
 layout: page
 title: Projects
 permalink: /projects/
+cover-img: /assets/img/winter3.jpg
 ---
 
-i WONDER what would happen... if one were to... 
+i WONDER what would happen... if one were to...
 
-## use various header sizes down this page? 
+## use various header sizes down this page?
 
 ---------
 
