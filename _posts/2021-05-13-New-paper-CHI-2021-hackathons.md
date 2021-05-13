@@ -1,8 +1,11 @@
 ---
 layout: post
 title: What do Hackathons Do?
-cover-img: whatdohackathonsdo.png
 subtitle: New (best) paper out @ CHI 2021
+cover-img: /assets/img/whatdohackathonsdo.png
+thumbnail-img: /assets/img/whatdohackathonsdo.png
+share-img: /assets/img/whatdohackathonsdo.png
+
 ---
 
 I have long had an interest in *program theory* a specific approach to evaluation the mechanisms and effects of different design activities. See for instance  [this paper from OZCHI 2019](../files/Hansen_et_al_2019_preprintOZCHI.pdf) 
