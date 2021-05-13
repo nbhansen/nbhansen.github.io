@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What do Hackathons Do?
-cover-img: /postimg/whatdohackathonsdo.png
+cover-img: whatdohackathonsdo.png
 subtitle: New (best) paper out @ CHI 2021
 ---
 
