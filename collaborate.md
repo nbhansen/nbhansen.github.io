@@ -2,9 +2,7 @@
 layout: page
 title: Collaborate
 subtitle: Hey you! Lets make some magical research happen!
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+
 permalink: /collaborate/
 
 ---

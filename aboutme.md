@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-cover-img: /assets/img/winter1.jpg
 subtitle: Why you'd want to go on a date with me
 ---
 
