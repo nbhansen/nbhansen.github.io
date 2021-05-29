@@ -6,9 +6,9 @@ subtitle: Hey you! Lets make some magical research happen!
 permalink: /collaborate/
 
 ---
-I am a prolific collaborator - as you might have noticed almost all of my work is coauthored and my doctoral and postdoctoral work happened in two major research projects: CIBIS (link!!) and STEC(link!!!). While partly a consequence of contemporary academia, I also enjoy working with others more often than not.
+I am a prolific collaborator - as you might have noticed almost all of my work is coauthored and my doctoral and postdoctoral work happened in two major research projects: [Creativity in Blended Interaction Spaces](https://cavi.au.dk/projects/cibis/) during my PhD at Aarhus University, and the [Smart Technologies, Empowered Citizens](https://stec.design) during my postdoc at the TU Eindhoven in the Netherlands. Currently I am part of the [DREAMS(Digitally supported Environmental  Assessment for Sustainable  Development Goals)](https://www.dreamsproject.dk) project here at Aalborg University.
 
-Below I outline a few of the typical ways to collaborate with me and at the end, you will find a few examples of collaborations that I especially appreciate (don't feel sad if you are not mentioned here - this section is very much a work in process)
+Below I outline a few of the typical ways to collaborate with me - don't feel sad if I didn't use OUR collaboration as an example. These are mostly chosen for their ability to communicate what I do with people.
 
 -----------
 ## Giving a talk or a workshop
@@ -18,7 +18,7 @@ Recent workshops I have given include "Is that really Participatory Design" (at 
 
 -----------
 ## Student projects
-My research agenda...
+Since my work is closely intertwined with practice it makes lots of sense to have students involved in my work. What I often do is that I work with students relevant to my 
 
 ------------
 ## Co-authoring papers
