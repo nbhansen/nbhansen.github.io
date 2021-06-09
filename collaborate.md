@@ -24,7 +24,8 @@ Since my work is closely intertwined with practice it makes lots of sense to hav
 
 For instance, I collaborated with a group of students at the Master in Digital Design at the Hogeschool van Amsterdam on a project where they created an interactive installation *Minicipality* that aimed to use play and games to make local citizens more aware of possibilities of engaging in developing their own neighborhood. You can read more about that here [The Minicipality - Creating a platform for citizen participation](https://www.masterdigitaldesign.com/case/game-the-minicipality).
 
------- conext picture ----
+![alt text](/assets/img/conext.jpg "CoNeXT by Anna Smulders, Eindhoven 2020")
+
 In another example, I supervised [the bachelors project of Anna Smulders](https://absmulders.wixsite.com/mijnsite-3/final-bachelor-project) and while all credit must go to Anna for her brilliant work, it is also an example of her and my interests intersecting - she created the Conext; A discussion tool for next level co-creation at citizen-evenings by making connections. The goal of this project was to empower citizens during the redevelopment of their city within the co-creation process at citizen-evenings. This project neatly combined my interests in *citizen empowerment* as well as tools for participatory design.  
 
 In general I am open to student projects of all types and kinds, and I have a lot of experience collaborating with companies and external stakeholders. During my PhD I worked with LEGO and a series of architectural companies, and in my time in the Netherlands I worked together with students with Philips and KPN.
