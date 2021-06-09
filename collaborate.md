@@ -20,7 +20,7 @@ Recent workshops I have given include *"Is that really Participatory Design"* (a
 ## Student projects
 Since my work is closely intertwined with practice it makes lots of sense to have students involved in my work. What I often do is that I work with students relevant to my research agenda on their own projects.
 
------- minicipality picture ----
+![alt text](/assets/img/mockup-bigscreen.jpg "Minicipality by Bambi Boland, Beatriz Ibeas, Genèviéve Korte, Ondrej Kocholaty, Amsterdam 2018")
 
 For instance, I collaborated with a group of students at the Master in Digital Design at the Hogeschool van Amsterdam on a project where they created an interactive installation *Minicipality* that aimed to use play and games to make local citizens more aware of possibilities of engaging in developing their own neighborhood. You can read more about that here [The Minicipality - Creating a platform for citizen participation](https://www.masterdigitaldesign.com/case/game-the-minicipality).
 
