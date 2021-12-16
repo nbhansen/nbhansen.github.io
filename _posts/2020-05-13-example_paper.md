@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What do Hackathons Do?
-subtitle: New (best) paper out @ CHI 2021
-cover-img: /assets/img/whatdohackathonsdo.png
-thumbnail-img: /assets/img/whatdohackathonsdo.png
-share-img: /assets/img/whatdohackathonsdo.png
+title: a testing thing for sure
+subtitle: trials and tribulationstbh
+cover-img: ../assets/img/whatdohackathonsdo.png
+thumbnail-img: ../assets/img/whatdohackathonsdo.png
+share-img: ../assets/img/whatdohackathonsdo.png
 
 ---
 
