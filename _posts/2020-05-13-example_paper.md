@@ -8,7 +8,7 @@ share-img: /assets/img/whatdohackathonsdo.png
 
 ---
 
-[just a test for students](../files/Hansen_et_al_2019_preprintOZCHI.pdf) 
+[just a test for students](../files/twocolumnExample.pdf) 
 
 
 
