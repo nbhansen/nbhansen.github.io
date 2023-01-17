@@ -29,7 +29,8 @@ Jacob Hjulskov Ravn, Rune Møberg Jacobsen, and Nicolai Brodersen Hansen. 2022. 
 Klerks, G.; Slingerland, G.; Kalinauskaite, I.; Hansen, N.B.; Schouten, B. **When Reality Kicks In: Exploring the Influence of Local Context on Community-Based Design**. *Sustainability 2022, 14, 4107*. <https://doi.org/10.3390/su14074107> (Open Access)
 
 #### 2021
-Falk, J., Kannabiran, G. and Hansen, N. B. (2021) **‘What do hackathons do?: Understanding participation in hackathons through program theory analysis’**, in *Proceedings of CHI’21*. Association for Computing Machinery. [Download PDF preprint](../files/Falk_et_al_2021_preprintCHI.pdf)
+Jeanette Falk, Gopinaath Kannabiran, and Nicolai Brodersen Hansen. 2021. **What Do Hackathons Do? Understanding Participation in Hackathons Through Program Theory Analysis**. In *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21)*. Association for Computing Machinery, New York, NY, USA, Article 147, 1–16. <https://doi.org/10.1145/3411764.3445198>
+**Best paper award**[Download PDF preprint](../files/Falk_et_al_2021_preprintCHI.pdf)
 
 #### 2020
 Schouten, B. A., Klerks, G., Den Hollander, M., and Hansen, N.B. (2020) ‘Action design research shaping university-industry collaborations for wicked problems’, in *32nd australian conference on human-computer interaction (OzCHI’20)*.
