@@ -19,6 +19,7 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 ---------------------------------------------------------
 #### 2023
 
+
 #### 2022
 Mela Bettega, Raul Masu, Nicolai Brodersen Hansen, and Maurizio Teli. 2022. **Off-the-shelf digital tools as a resource to nurture the commons**. *In Proceedings of the Participatory Design Conference 2022 - Volume 1 (PDC '22)*. Association for Computing Machinery, New York, NY, USA, 133–146. <https://doi.org/10.1145/3536169.3537787> 
 [Download PDF preprint](https://vbn.aau.dk/ws/files/483966535/3536169.3537787.pdf)
@@ -81,6 +82,9 @@ Korsgaard, H., Hansen, N. B., Basballe, D., Dalsgaard, P., & Halskov, K. (2012).
 
 ### Workshops, position papers demos and other stuff (by year)
 ----------------
+#### 2023
+Failed yet successful workshop @ CHI 2023: <https://discontinued-civictech.github.io/> 
+Paper: <https://discontinued-civictech.github.io/files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf>
 
 #### 2020
 Hansen, N. B., Klerks, G., Menendez Blanco, M., Maye, L., Strohmayer, A., De Waal, M., & Schouten, B. (2020). Making civic initiatives last: Ecosystems, technologies, approaches and challenges. *Companion Publication of the 2020 ACM Designing Interactive Systems Conference*, 433–436.
