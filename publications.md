@@ -17,9 +17,6 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 
 ### Peer-reviewed (Conferences and Journals) (by year)
 ---------------------------------------------------------
-#### 2023
-
-
 #### 2022
 Mela Bettega, Raul Masu, Nicolai Brodersen Hansen, and Maurizio Teli. 2022. **Off-the-shelf digital tools as a resource to nurture the commons**. *In Proceedings of the Participatory Design Conference 2022 - Volume 1 (PDC '22)*. Association for Computing Machinery, New York, NY, USA, 133–146. <https://doi.org/10.1145/3536169.3537787> 
 [Download PDF preprint](https://vbn.aau.dk/ws/files/483966535/3536169.3537787.pdf)

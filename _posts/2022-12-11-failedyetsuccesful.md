@@ -14,4 +14,4 @@ The design of civic tech is often confronted with impediments, barriers, and a l
 Read more at our website: https://discontinued-civictech.github.io/ and peep the preview of the paper: https://discontinued-civictech.github.io/files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf
 --------------------
 
-Think I do cool stuff? why not shoot over and ask me to collaborate?
+Think I do cool stuff? why not shoot over and ask me to [collaborate](../collaborate)

@@ -20,5 +20,5 @@ The abstract goes a little something like this:
 
 --------------------
 
-Think I do cool stuff? why not shoot over and ask me to [../collaborate]!
+Think I do cool stuff? why not shoot over and ask me to [collaborate](../collaborate)
 
