@@ -20,11 +20,11 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 #### 2023
 
 #### 2022
-Mela Bettega, Raul Masu, Nicolai Brodersen Hansen, and Maurizio Teli. 2022. **Off-the-shelf digital tools as a resource to nurture the commons**. *In Proceedings of the Participatory Design Conference 2022 - Volume 1 (PDC '22)*. Association for Computing Machinery, New York, NY, USA, 133–146. https://doi.org/10.1145/3536169.3537787 [Download PDF preprint](https://vbn.aau.dk/ws/files/483966535/3536169.3537787.pdf)
+Mela Bettega, Raul Masu, Nicolai Brodersen Hansen, and Maurizio Teli. 2022. **Off-the-shelf digital tools as a resource to nurture the commons**. *In Proceedings of the Participatory Design Conference 2022 - Volume 1 (PDC '22)*. Association for Computing Machinery, New York, NY, USA, 133–146. <https://doi.org/10.1145/3536169.3537787> [Download PDF preprint](https://vbn.aau.dk/ws/files/483966535/3536169.3537787.pdf)
 
-Jacob Hjulskov Ravn, Rune Møberg Jacobsen, and Nicolai Brodersen Hansen. 2022. **Co-designing with adult people with ASD: A review of applied tools and techniques**. In *Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference (NordiCHI '22)*. Association for Computing Machinery, New York, NY, USA, Article 46, 1–5. https://doi.org/10.1145/3547522.3547690 [Download PDF preprint](../files/Ravn_codesign_adults_nordichi.pdf)
+Jacob Hjulskov Ravn, Rune Møberg Jacobsen, and Nicolai Brodersen Hansen. 2022. **Co-designing with adult people with ASD: A review of applied tools and techniques**. In *Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference (NordiCHI '22)*. Association for Computing Machinery, New York, NY, USA, Article 46, 1–5. <https://doi.org/10.1145/3547522.3547690> [Download PDF preprint](../files/Ravn_codesign_adults_nordichi.pdf)
 
-Klerks, G.; Slingerland, G.; Kalinauskaite, I.; Hansen, N.B.; Schouten, B. **When Reality Kicks In: Exploring the Influence of Local Context on Community-Based Design**. *Sustainability 2022, 14, 4107*. https://doi.org/10.3390/su14074107
+Klerks, G.; Slingerland, G.; Kalinauskaite, I.; Hansen, N.B.; Schouten, B. **When Reality Kicks In: Exploring the Influence of Local Context on Community-Based Design**. *Sustainability 2022, 14, 4107*. <https://doi.org/10.3390/su14074107>
 
 #### 2021
 Falk, J., Kannabiran, G. and Hansen, N. B. (2021) **‘What do hackathons do?: Understanding participation in hackathons through program theory analysis’**, in *Proceedings of CHI’21*. Association for Computing Machinery. [Download PDF preprint](../files/Falk_et_al_2021_preprintCHI.pdf)
