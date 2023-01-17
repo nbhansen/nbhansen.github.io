@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lets try to make an effort here
-subtitle: I am rebooting my blogging bits too
-cover-img: /assets/img/whatdohackathonsdo.png
-thumbnail-img: /assets/img/whatdohackathonsdo.png
-share-img: /assets/img/whatdohackathonsdo.png
+title: CHI 2023 Workshop
+subtitle: 
+cover-img: /assets/img/civictech.png
+thumbnail-img: /assets/img/civictech.png
+share-img: /assets/img/civictech.png
 
 ---
 thats WILD bro
