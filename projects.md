@@ -4,17 +4,12 @@ title: Projects
 permalink: /projects/
 cover-img: /assets/img/winter3.jpg
 ---
-
-i WONDER what would happen... if one were to...
-
-## use various header sizes down this page?
+I generally work as part of larger projects, and here I give a couple of example of either current or previous projects. I tend to be somewhat eclectic though: as long as there is [project_toolsmaterialsPD](Participatory Design or design methods) to be worked on, I am generally game.
 
 ---------
 
-you know interspersed with paragraphs like this one?
 
-### I mean... for being a header 3 i am kinda cool?
 
 ---------
 
-and do we now have horizontal rulers? how do they look king?
+Do you think we have something in common? then we definitely should [collaborate](../collaborate) on something.
