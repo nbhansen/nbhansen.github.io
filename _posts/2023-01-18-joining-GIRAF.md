@@ -2,7 +2,7 @@
 layout: post
 title: Joining the GIRAF project
 subtitle: A tablet environment for autistic children with little or no verbal communication
-# cover-img: /assets/img/cropped-girafIconAlpha.png
+cover-img: /assets/img/girafgfx.jpg
 thumbnail-img: /assets/img/cropped-girafIconAlpha.png
 share-img: /assets/img/cropped-girafIconAlpha.png
 
