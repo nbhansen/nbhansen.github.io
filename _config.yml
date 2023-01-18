@@ -15,7 +15,7 @@ author: Nicolai Brodersen Hansen, BA, M.Sc., PhD
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Projects:
   Publications: "publications"
   Teaching: "teaching"
   Collaborate?: "collaborate"
@@ -59,7 +59,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-mastodon: https://hci.social/@nbhansen
+  mastodon: hci.social/@nbhansen
 #  ORCID: your ORCID ID
 google-scholar: 7Uy9-ToAAAAJ
 
@@ -74,7 +74,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
