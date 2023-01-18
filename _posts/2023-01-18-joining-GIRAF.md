@@ -18,4 +18,3 @@ The way that GIRAF is developed, is that 5-8 student groups at computer science 
 --------------------
 
 Think I do cool stuff? why not shoot over and ask me to [collaborate](../collaborate)
-
