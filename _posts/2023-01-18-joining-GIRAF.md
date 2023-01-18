@@ -7,9 +7,9 @@ thumbnail-img: /assets/img/cropped-girafIconAlpha.png
 share-img: /assets/img/cropped-girafIconAlpha.png
 
 ---
-Today I officially joined the [https://giraf.cs.aau.dk/en/about-giraf/](GIRAF project). GIRAF is a Giraf is a tablet environment aimed at autistic children with little or no verbal communication. It can be used for daily schedules, games and education. 
+Today I officially joined the [GIRAF project](https://giraf.cs.aau.dk/en/about-giraf/). GIRAF is a Giraf is a tablet environment aimed at autistic children with little or no verbal communication. It can be used for daily schedules, games and education. 
 
-My role will be as part-researcher and part SCRUM-style product owner in the sense that I will be managing connections with stakeholders in the project (institutions that teach children with autism) and the student projects that run every semester. The project is Open Source - more [https://aau-giraf.github.io/wiki/](more documentation can be found here.) 
+My role will be as part-researcher and part SCRUM-style product owner in the sense that I will be managing connections with stakeholders in the project (institutions that teach children with autism) and the student projects that run every semester. The project is Open Source - [more documentation can be found here.](https://aau-giraf.github.io/wiki/) 
 
 ![The GIRAF system showing a PECS system running GIRAF](/assets/img/girafgfx.jpg "The GIRAF system showing a PECS system running GIRAF").
 
