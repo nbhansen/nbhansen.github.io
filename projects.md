@@ -7,16 +7,22 @@ cover-img: /assets/img/winter3.jpg
 I generally work as part of larger projects, and here I give a couple of example of either current or previous projects. I tend to be somewhat eclectic though: as long as there is Participatory Design or design methods, or design tools to be worked on, I am generally game. This can be 
 
 ---------
-#### GIRAF
+#### Tools and Materials in Participatory Design (2011-Eternity)
+One of my longest-standing interests have been in how tools and materials are relevant in participatory design and this has resulted in a series of publications, chief among these my doctoral work from 2016, ["Design Materials in Participatory Design Processes"](https://arxiv.org/abs/1703.07187) which used John Deweys pragmatist philosophy to look at how various materials, digital and physical, scaffold collaboration in various workshop- and prototyping formats.
+
+#### DREAMS (2021-2024)
+DREAMS stands for "Digitally supported Environmental Assessment for Sustainable Development Goals" and the project is a multi-disciplinary collaboration with various academic 
+
+#### GIRAF (2022-)
 I started being part of of this project
 
-#### STEC
+#### STEC (2017-2020)
 Lorem ipsum
 
-#### CIBIS
+#### CIBIS (2013-2017)
 Lorem ipsum
 
-#### Demoscene
+#### Demoscene (1998-Eternity)
 Lorem ipsum
 ---------
 
