@@ -4,11 +4,11 @@ title: Projects
 permalink: /projects/
 cover-img: /assets/img/winter3.jpg
 ---
-I generally work as part of larger projects, and here I give a couple of example of either current or previous projects. I tend to be somewhat eclectic though: as long as there is [project_toolsmaterialsPD](Participatory Design or design methods) to be worked on, I am generally game.
+I generally work as part of larger projects, and here I give a couple of example of either current or previous projects. I tend to be somewhat eclectic though: as long as there is Participatory Design or design methods, or design tools to be worked on, I am generally game. This can be 
 
 ---------
 #### GIRAF
-Lorem ipsum
+I started being part of of this project
 
 #### STEC
 Lorem ipsum
