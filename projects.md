@@ -11,10 +11,22 @@ I generally work as part of larger projects, and here I give a couple of example
 One of my longest-standing interests have been in how tools and materials are relevant in participatory design and this has resulted in a series of publications, chief among these my doctoral work from 2016, ["Design Materials in Participatory Design Processes"](https://arxiv.org/abs/1703.07187) which used John Deweys pragmatist philosophy to look at how various materials, digital and physical, scaffold collaboration in various workshop- and prototyping formats.
 
 ---------
-#### DREAMS (2021-2024)
+#### DREAMS (2021-2023)
 DREAMS stands for "Digitally supported Environmental Assessment for Sustainable Development Goals" and the project is a multi-disciplinary collaboration with various academic, company- and NGO stakeholders. The official onepager for the project describes it like *Environmental assessments (EAs) are applied worldwide as an important decision support tool in the development of numerous types of projects and plans. Current practices do, however, have drawbacks as highly manual, timeconsuming and inefficient EA processes. Building on experiences from international frontrunners on digitalization, DREAMS utilize the potentials of digitalization to develop novel tools that as open-access platforms will support societal actors in improving EAs practices and thereby promote a more sustainable development*. 
 
 My main role concerns prototypes of various tools and interfaces but also studying the particular contexts that environmental assessments, and thus such tools and interfaces, would be used in. 
+
+Find more information about ["DREAMS here on the official website"](https://www.dreamsproject.dk)
+
+A few publications have come out so far from my involvement in the project: 
+
+["Johansen, S. S., Jensen, R. H., Schneiders, E., & Hansen, N. B. (2023). Manifestations of a Sound Wave:
+Establishing Human-Data Relations from a Data-Centred Perspective. Paper presented at Data as a Material for
+Design, Hamburg, Hamburg, Germany."](https://vbn.aau.dk/ws/portalfiles/portal/518497479/Manifestations_of_a_Sound_Wave_CHI23_Data_as_a_Material_for_Design_1.pdf)
+
+
+
+
 
 ---------
 #### GIRAF (2022-)
