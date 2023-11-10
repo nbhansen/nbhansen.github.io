@@ -16,13 +16,13 @@ DREAMS stands for "Digitally supported Environmental Assessment for Sustainable 
 
 My main role concerns prototypes of various tools and interfaces but also studying the particular contexts that environmental assessments, and thus such tools and interfaces, would be used in. 
 
-Find more information about ["DREAMS here on the official website"](https://www.dreamsproject.dk)
+Find more information about [DREAMS here on the official website](https://www.dreamsproject.dk)
 
 A few publications have come out so far from my involvement in the project: 
 
-["Johansen, S. S., Jensen, R. H., Schneiders, E., & Hansen, N. B. (2023). Manifestations of a Sound Wave:
+[Johansen, S. S., Jensen, R. H., Schneiders, E., & Hansen, N. B. (2023). Manifestations of a Sound Wave:
 Establishing Human-Data Relations from a Data-Centred Perspective. Paper presented at Data as a Material for
-Design, Hamburg, Hamburg, Germany."](https://vbn.aau.dk/ws/portalfiles/portal/518497479/Manifestations_of_a_Sound_Wave_CHI23_Data_as_a_Material_for_Design_1.pdf)
+Design, Hamburg, Hamburg, Germany.](https://vbn.aau.dk/ws/portalfiles/portal/518497479/Manifestations_of_a_Sound_Wave_CHI23_Data_as_a_Material_for_Design_1.pdf)
 
 
 
