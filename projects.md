@@ -29,7 +29,7 @@ Design, Hamburg, Hamburg, Germany.](https://vbn.aau.dk/ws/portalfiles/portal/518
       
 ---------
 #### GIRAF (2022-)
-I started being part of of this project recently - it concerns the development of a system for autistic folks communicating with others using pictures. I made a [blogpost you can peep here](/_posts/2023-01-18-joining-GIRAF) 
+I started being part of of this project recently - it concerns the development of a system for autistic folks communicating with others using pictures. I made a [blogpost you can peep here](../_posts/2023-01-18-joining-GIRAF) 
 
 ---------
 #### STEC (2017-2020)
