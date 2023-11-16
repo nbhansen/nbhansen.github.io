@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 cover-img: /assets/img/winter3.jpg
 ---
-I generally work as part of larger projects, and here I give a couple of example of either current or previous projects. I tend to be somewhat eclectic though: as long as there is Participatory Design or design methods, or design tools to be worked on, I am generally game. This can be 
+I generally work as part of larger projects, and here I give a couple of example of either current or previous projects. I tend to be somewhat eclectic though: as long as there is Participatory Design or design methods, or design tools to be worked on, I am generally game. This can be research into the process itself, so how do we engage and design together with people in a particular context? But it can also be a way to bring out the knowledge of the domain experts that are always there. 
 
 ---------
 #### Tools and Materials in Participatory Design (2011-Eternity)
@@ -33,7 +33,7 @@ I started being part of of this project recently - it concerns the development o
 
 ---------
 #### STEC (2017-2020)
-Lorem ipsum
+I did my postdoc in the Netherlands at Eindhoven University of Technology. There, my role was to use design methods to design together with external research partners in a larger project: Smart Technologies, Empowered Citizens (STEC). Financed by the Dutch Research Foundation, this 2.5 million euros project partnered with companies such as Philips Research and KPN, but also smaller citizen empowerment "playmakers" such as [Play The City](https://www.playthecity.eu) and [TransformCity](https://www.transformcity.com).
 
 ---------
 #### CIBIS (2013-2017)
