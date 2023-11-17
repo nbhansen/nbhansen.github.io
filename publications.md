@@ -17,6 +17,15 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 
 ### Peer-reviewed (Conferences and Journals) (by year)
 ---------------------------------------------------------
+#### 2023
+Florian Echtler, Vitus Maierhöfer, Nicolai Brodersen Hansen, and Raphael Wimmer. 2023. **SurfaceCast: Ubiquitous, Cross-Device Surface Sharing**. Proc. ACM Hum.-Comput. Interact. 7, ISS, Article 439 (December 2023), 23 pages. <https://doi.org/10.1145/3626475>
+
+Florian Echtler, Vitus Maierhöfer, Nicolai Brodersen Hansen, and Raphael Wimmer. 2023. **Demonstrating SurfaceCast: Ubiquitous, Cross-Device Surface Sharing.** In Companion Proceedings of the 2023 Conference on Interactive Surfaces and Spaces (ISS Companion '23). Association for Computing Machinery, New York, NY, USA, 65–68. https://doi.org/10.1145/3626485.3626545
+
+Gwen Weeldenburg, Len Kromkamp, Lars Borghouts, Pepijn Verburg, Nicolai Brodersen Hansen, and Steven Vos. 2023. **TARGET-tool: Participatory Design of an Interactive Professional Development Tool for Secondary School Physical Education Teachers.** In Proceedings of the 2023 9th International Conference on Frontiers of Educational Technologies (ICFET '23). Association for Computing Machinery, New York, NY, USA, 40–51. <https://doi.org/10.1145/3606150.3606158>
+
+Rikke Hagensby Jensen, Stine S. Johansen, Nicolai Brodersen Hansen, Ashna Mahmood Zada, and Peter Axel Nielsen. 2023. **Tensions in Data Journey Activities: Mobilising, Processing, Producing, and Re-purposing Data in Environmental Assessment Practice.** Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 363 (October 2023), 22 pages. <https://doi.org/10.1145/3610212>
+
 #### 2022
 Mela Bettega, Raul Masu, Nicolai Brodersen Hansen, and Maurizio Teli. 2022. **Off-the-shelf digital tools as a resource to nurture the commons**. *In Proceedings of the Participatory Design Conference 2022 - Volume 1 (PDC '22)*. Association for Computing Machinery, New York, NY, USA, 133–146. <https://doi.org/10.1145/3536169.3537787> 
 [Download PDF preprint](https://vbn.aau.dk/ws/files/483966535/3536169.3537787.pdf)
@@ -83,6 +92,10 @@ Korsgaard, H., Hansen, N. B., Basballe, D., Dalsgaard, P., & Halskov, K. (2012).
 #### 2023
 Failed yet successful workshop @ CHI 2023: <https://discontinued-civictech.github.io/> 
 Paper: <https://discontinued-civictech.github.io/files/Preprint_Hamm_Shibuya_Pargman_etal_Failed_yet_successful.pdf>
+
+Manifestations of a Soundwave - Establishing Human-Data Relations from a Data-Centred Perspective @ CHI 2023: <https://vbn.aau.dk/ws/portalfiles/portal/518497479/Manifestations_of_a_Sound_Wave_CHI23_Data_as_a_Material_for_Design_1.pdf>
+
+
 
 #### 2020
 Hansen, N. B., Klerks, G., Menendez Blanco, M., Maye, L., Strohmayer, A., De Waal, M., & Schouten, B. (2020). Making civic initiatives last: Ecosystems, technologies, approaches and challenges. *Companion Publication of the 2020 ACM Designing Interactive Systems Conference*, 433–436.
