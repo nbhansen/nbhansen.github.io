@@ -13,7 +13,7 @@ My role will be as part-researcher and part SCRUM-style product owner in the sen
 
 ![The GIRAF system showing a PECS system running GIRAF](/assets/img/girafgfx.jpg "The GIRAF system showing a PECS system running GIRAF")
 
-The way that GIRAF is developed, is that 5-8 student groups at computer science AAU run a semester-long SCRUM project that develops different parts of the environment. The project has been running for a long time, but is now coming into its own - in the future I plan to try to run GIRAF in closer collaboration also with the stakeholders as well as maybe students at interaction design.
+The way that GIRAF is developed, is that 8-10 student groups at computer science AAU run a semester-long SCRUM project that develops different parts of the environment. The project has been running for a long time, but is now coming into its own - in the future I plan to try to run GIRAF in closer collaboration also with the stakeholders as well as maybe students at interaction design.
 
 --------------------
 
