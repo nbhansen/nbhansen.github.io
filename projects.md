@@ -24,7 +24,7 @@ A few publications have come out so far from my involvement in the project:
 Establishing Human-Data Relations from a Data-Centred Perspective. Paper presented at Data as a Material for
 Design, Hamburg, Hamburg, Germany.](https://vbn.aau.dk/ws/portalfiles/portal/518497479/Manifestations_of_a_Sound_Wave_CHI23_Data_as_a_Material_for_Design_1.pdf)
 
-[Rikke Hagensby Jensen, Stine S. Johansen, Nicolai Brodersen Hansen, Ashna Mahmood Zada, and Peter Axel Nielsen. 2023. Tensions in Data Journey Activities: Mobilising, Processing, Producing, and Re-purposing Data in Environmental Assessment Practice. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 363 (October 2023), 22 pages.](https://doi.org/10.1145/3610212)
+[Rikke Hagensby Jensen, Stine S. Johansen, Nicolai Brodersen Hansen, Ashna Mahmood Zada, and Peter Axel Nielsen. 2023. Tensions in Data Journey Activities: Mobilising, Processing, Producing, and Re-purposing Data in Environmental Assessment Practice.](https://doi.org/10.1145/3610212)
 
       
 ---------
