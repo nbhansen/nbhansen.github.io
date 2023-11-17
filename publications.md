@@ -20,7 +20,7 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 #### 2023
 Florian Echtler, Vitus Maierhöfer, Nicolai Brodersen Hansen, and Raphael Wimmer. 2023. **SurfaceCast: Ubiquitous, Cross-Device Surface Sharing**. Proc. ACM Hum.-Comput. Interact. 7, ISS, Article 439 (December 2023), 23 pages. <https://doi.org/10.1145/3626475>
 
-Florian Echtler, Vitus Maierhöfer, Nicolai Brodersen Hansen, and Raphael Wimmer. 2023. **Demonstrating SurfaceCast: Ubiquitous, Cross-Device Surface Sharing.** In Companion Proceedings of the 2023 Conference on Interactive Surfaces and Spaces (ISS Companion '23). Association for Computing Machinery, New York, NY, USA, 65–68. https://doi.org/10.1145/3626485.3626545
+Florian Echtler, Vitus Maierhöfer, Nicolai Brodersen Hansen, and Raphael Wimmer. 2023. **Demonstrating SurfaceCast: Ubiquitous, Cross-Device Surface Sharing.** In Companion Proceedings of the 2023 Conference on Interactive Surfaces and Spaces (ISS Companion '23). Association for Computing Machinery, New York, NY, USA, 65–68. <https://doi.org/10.1145/3626485.3626545>
 
 Gwen Weeldenburg, Len Kromkamp, Lars Borghouts, Pepijn Verburg, Nicolai Brodersen Hansen, and Steven Vos. 2023. **TARGET-tool: Participatory Design of an Interactive Professional Development Tool for Secondary School Physical Education Teachers.** In Proceedings of the 2023 9th International Conference on Frontiers of Educational Technologies (ICFET '23). Association for Computing Machinery, New York, NY, USA, 40–51. <https://doi.org/10.1145/3606150.3606158>
 
