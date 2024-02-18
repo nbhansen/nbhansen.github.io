@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hobby post
-subtitle: External Graphics card, gaming and so on
+title: What I teach this fall
+subtitle: Prototyping and supervision
 # cover-img: /assets/img/girafgfx.jpg
 thumbnail-img: /assets/img/cropped-girafIconAlpha.png
 share-img: /assets/img/cropped-girafIconAlpha.png
