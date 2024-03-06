@@ -2,7 +2,6 @@
 layout: post
 title: What I teach this fall
 subtitle: Prototyping and supervision
-cover-img: /assets/img/figmagithub.jpg
 thumbnail-img: /assets/img/figmagithub.jpg
 share-img: /assets/img/figmagithub.jpg
 
