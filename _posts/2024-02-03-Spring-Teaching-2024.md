@@ -2,9 +2,9 @@
 layout: post
 title: What I teach this fall
 subtitle: Prototyping and supervision
-# cover-img: /assets/img/girafgfx.jpg
-thumbnail-img: /assets/img/cropped-girafIconAlpha.png
-share-img: /assets/img/cropped-girafIconAlpha.png
+cover-img: /assets/img/figmagithub.jpg
+thumbnail-img: /assets/img/figmagithub.jpg
+share-img: /assets/img/figmagithub.jpg
 
 ---
 Today I officially joined the [GIRAF project](https://giraf.cs.aau.dk/en/about-giraf/). GIRAF is a Giraf is a tablet environment aimed at autistic children with little or no verbal communication. It can be used for daily schedules, games and education. 
