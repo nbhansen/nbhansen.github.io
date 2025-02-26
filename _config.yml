@@ -50,8 +50,8 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  bluesky: bsky.app/profile/nbhansen.dk
   email: "nbha@cs.aau.dk"
-#  facebook: deanattali
   github: nbhansen
   twitter: nbhansen
 #  patreon: DeanAttali
