@@ -1,9 +1,13 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
+###########################################################
+### Welcome to Beautiful Jekyll!
+### This config file is meant for settings that affect your entire website. When you first
+### set up your website you should go through all these settings and edit them, but after
+### the initial set up you won't need to come back to this file often.
+###########################################################
 
+############################
 # --- Required options --- #
+############################
 
 # Name of website
 title: nbhansen // Participatory Design and HCI researcher
@@ -11,7 +15,9 @@ title: nbhansen // Participatory Design and HCI researcher
 # Your name to show in the footer
 author: Nicolai Brodersen Hansen, BA, M.Sc., PhD
 
+###############################################
 # --- List of links in the navigation bar --- #
+###############################################
 
 navbar-links:
   About Me: "aboutme"
@@ -20,7 +26,9 @@ navbar-links:
   Teaching: "teaching"
   Collaborate?: "collaborate"
 
+################
 # --- Logo --- #
+################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -34,9 +42,12 @@ navbar-links:
 # title-img: /assets/img/logo.png
 
 
+#####################################
 # --- Footer social media links --- #
+#####################################
 
 # Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nbha@cs.aau.dk"
@@ -46,7 +57,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
-#  reddit: yourname
+#  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -59,7 +70,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  mastodon: hci.social/@nbhansen
+mastodon: hci.social/@nbhansen
 #  ORCID: your ORCID ID
 google-scholar: 7Uy9-ToAAAAJ
 
@@ -67,11 +78,12 @@ google-scholar: 7Uy9-ToAAAAJ
 # If you don't want to show an RSS link, remove the following line.
 # rss-description: This website is a virtual proof that I'm awesome
 
+###########################
 # --- General options --- #
+###########################
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
   linkedin: true
   mastodon: true
@@ -92,7 +104,9 @@ feed_show_tags: false
 # The keywords to associate with your website, for SEO purposes
 keywords: "Interaction Design,HCI,Participatory Design,Research"
 
+######################################
 # --- Colours / background image --- #
+######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
@@ -125,7 +139,9 @@ footer-link-col: "#EACD00"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
+#################################
 # --- Web Analytics Section --- #
+#################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
@@ -147,13 +163,23 @@ google_analytics: "G-HH1643QLJ2"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
+# Google Universal Analytics ID -- deprecated
+# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
+# you should switch to using the `gtag` field above instead.
+#google_analytics: "UA-XXXXXXXX-X"
+
+####################
 # --- Comments --- #
+####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
+
+# To use CommentBox, sign up for a Project ID on https://commentbox.io
+#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
@@ -170,16 +196,39 @@ google_analytics: "G-HH1643QLJ2"
 # Using Staticman requires advanced knowledge, please consult
 # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
 # instructions. For any support with staticman please direct questions to staticman and
+# section commented if you aren't using reCaptcha for spam protection.
+# Using Staticman requires advanced knowledge, please consult
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
+# instructions. For any support with staticman please direct questions to staticman and
 # not to BeautifulJekyll.
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
+# To use giscus comments:
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
+# (2) Install the giscus app in your repository (details at https://giscus.app),
+# (3) Fill in *all* the parameters below
+# See more details about giscus and each of the following parameters at https://giscus.app
+#giscus:
+#  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository-id: # ID of your repository, retrieve this info from https://giscus.app
+#  category: Announcements # Category name of your GitHub Discussion posts
+#  category-id: # ID of your category, retrieve this info from https://giscus.app
+#  mapping: pathname
+#  reactions-enabled: 1
+#  emit-metadata: 0
+#  theme: light
+
+################
 # --- Misc --- #
+################
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
@@ -187,7 +236,9 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
+#################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
+#################################################################################
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
