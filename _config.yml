@@ -65,7 +65,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 mastodon: hci.social/@nbhansen
-#  ORCID: your ORCID ID
+ORCID: https://orcid.org/0000-0003-2187-0104
 google-scholar: 7Uy9-ToAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
