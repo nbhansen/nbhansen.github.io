@@ -47,15 +47,16 @@ social-network-links:
   bluesky: nbhansen.dk
   email: "nbha@cs.aau.dk"
   github: nbhansen
-  mastodon: hci.social/@nbhansen
+  mastodon: mastodon.social/@nbhansen
   ORCID: 0000-0003-2187-0104
-  google-scholar: 7Uy9-ToAAAAJ
+  linkedin: nbhansen  
+  # google-scholar: 7Uy9-ToAAAAJ
 #  twitter: nbhansen
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -67,9 +68,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-mastodon: hci.social/@nbhansen
-ORCID: 0000-0003-2187-0104
-google-scholar: 7Uy9-ToAAAAJ
+
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
