@@ -11,7 +11,7 @@ Aided by anthropics Claude, I finally managed to cut through the clutter of [Jek
 
 
 ## The magic (?!?)
-Its not REALLY magic but okay basically there are five bash scripts for a range of blog-related activities, like creating new posts from a markdown template, formatting images the right way, and accessing and uploading to the ftp-server at the venerable danish hosting company [www.webhosting.dk](https://www.webhosting.dk). Check out a diagram of the magic (?!?) here: 
+Its not REALLY magic but okay basically there are five bash scripts for a range of blog-related activities, like creating new posts from a markdown template, formatting images the right way, and accessing and uploading to the ftp-server at the venerable danish hosting company [www.webhosting.dk](https://www.webhosting.dk). Check out a diagram of the magic (?!?) [here on github](https://github.com/nbhansen/nbhansen.github.io/blob/master/WORKFLOW.md)
 
 ## so uhm... why not wordpress or something else?
 Well, I am a giant nerd, is the first reason. Second, I love the idea of my site here consisting ONLY OF STATIC HTML/CSS/JAVASCRIPT i mean... its so fast right. Thats why. 
