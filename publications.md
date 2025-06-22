@@ -17,6 +17,18 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 
 ### Peer-reviewed (Conferences and Journals) (by year)
 ---------------------------------------------------------
+#### 2025
+Maye, Laura, and Nicolai Brodersen Hansen. **“Involvement of Autistic Adults in the Participatory Design of Technology: A Scoping Review.”** In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1–17. CHI ’25. New York, NY, USA: Association for Computing Machinery, 2025. <https://doi.org/10.1145/3706598.3713961.>
+
+Jensen, Victor Vadmand, Emmelie Christensen, Ida Christiansen, Kim Tan Pham, Nicolai Brodersen Hansen, and John Stouby Persson. **“Designing for Digital Mediation of the Volatile Electricity Prices in the European Energy Crisis: An Action Design Research Study.”** Scandinavian Journal of Information Systems, 2025.
+
+#### 2024
+Jensen, Victor Vadmand, Emmelie Christensen, Nicolai Brodersen Hansen, and Rikke Hagensby Jensen. **“A Year in Energy: Imagining Energy Community Participation with a Collaborative Design Fiction.”** In Proceedings of the 13th Nordic Conference on Human-Computer Interaction, 1–15. NordiCHI ’24. New York, NY, USA: Association for Computing Machinery, 2024. <https://doi.org/10.1145/3679318.3685355.>
+
+Hamm, Andrea, Yuya Shibuya, Teresa Cerratto Pargman, Roy Bendor, Christoph Raetzsch, Mennatullah Hendawy, Rainer Rehak, Gwen Klerks, Ben Schouten, and Nicolai Brodersen Hansen. **“What Does ‘Failure’ Mean in Civic Tech? We Need Continued Conversations About Discontinuation.”** Interactions 31, no. 2 (March 2024): 34–38. <https://doi.org/10.1145/3641815.>
+
+Zhang, Yongxin, Charlotte Mejlvang Guldbæk, Christian Fog Dalsgaard Jensen, Nicolai Brodersen Hansen, and Florian Echtler. **“TableCanvas: Remote Open-Ended Play in Physical-Digital Environments.”** In Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction, 1–7. TEI ’24. New York, NY, USA: Association for Computing Machinery, 2024. <https://doi.org/10.1145/3623509.3635255.>
+
 #### 2023
 Florian Echtler, Vitus Maierhöfer, Nicolai Brodersen Hansen, and Raphael Wimmer. 2023. **SurfaceCast: Ubiquitous, Cross-Device Surface Sharing**. Proc. ACM Hum.-Comput. Interact. 7, ISS, Article 439 (December 2023), 23 pages. <https://doi.org/10.1145/3626475>
 
