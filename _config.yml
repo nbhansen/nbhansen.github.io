@@ -127,8 +127,8 @@ footer-link-col: "#EACD00"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/pagination-dark.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 site-js:
@@ -259,6 +259,10 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+
+# Include these files/directories in production site
+include:
+  - .well-known
 
 # Exclude these files from production site
 exclude:

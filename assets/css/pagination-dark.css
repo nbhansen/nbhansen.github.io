@@ -1,0 +1,44 @@
+/* Dark theme pagination styling for Beautiful Jekyll */
+
+.pagination .page-link {
+    background-color: #1C1D1F;  /* Match page background */
+    border: 1px solid #EACD00;  /* Yellow border like other elements */
+    color: #EACD00;             /* Yellow text like other links */
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+.pagination .page-link:hover,
+.pagination .page-link:focus {
+    background-color: #86918A;  /* Use hover color from theme */
+    color: #F6F2ED;             /* Light text on hover */
+    border-color: #86918A;
+    text-decoration: none;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #EACD00;  /* Yellow background for active */
+    color: #1C1D1F;             /* Dark text on yellow */
+    border-color: #EACD00;
+}
+
+.pagination .page-item.disabled .page-link {
+    background-color: #1C1D1F;
+    color: #86918A;             /* Muted color for disabled */
+    border-color: #86918A;
+}
+
+/* Make sure pagination is visible */
+.pagination {
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+/* Style the arrows and text consistently */
+.pagination .page-link i {
+    color: inherit;
+}
+
+.pagination .page-link span {
+    color: inherit;
+}
