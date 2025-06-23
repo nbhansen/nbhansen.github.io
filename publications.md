@@ -18,6 +18,8 @@ Department of Culture and Communication, Aarhus University, Denmark.  [Download 
 ### Peer-reviewed (Conferences and Journals) (by year)
 ---------------------------------------------------------
 #### 2025
+Slingerland, Geertje, and Nicolai and Brodersen Hansen. **“Untangling the Participation Buzz in Urban Place-Making: Mechanisms and Effects.”** Journal of CoDesign, 2025, 1–23. <https://doi.org/10.1080/15710882.2025.2514561.>
+
 Maye, Laura, and Nicolai Brodersen Hansen. **“Involvement of Autistic Adults in the Participatory Design of Technology: A Scoping Review.”** In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1–17. CHI ’25. New York, NY, USA: Association for Computing Machinery, 2025. <https://doi.org/10.1145/3706598.3713961.>
 
 Jensen, Victor Vadmand, Emmelie Christensen, Ida Christiansen, Kim Tan Pham, Nicolai Brodersen Hansen, and John Stouby Persson. **“Designing for Digital Mediation of the Volatile Electricity Prices in the European Energy Crisis: An Action Design Research Study.”** Scandinavian Journal of Information Systems, 2025.

@@ -36,8 +36,6 @@ The review identifies several important directions for future work:
 - **Reconsidering diagnostic requirements**: Questioning whether formal autism diagnosis should be a prerequisite for participation in design processes
 - **Recognizing diverse expertise**: Better acknowledgment and utilization of the multiple forms of expertise that autistic adults bring to design projects
 
-## Links
-
 - **Paper**: [CHI 2025 Digital Library](https://doi.org/10.1145/3706598.3713961)
 - **Conference**: CHI 2025 Conference on Human Factors in Computing Systems
 
