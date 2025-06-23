@@ -6,6 +6,7 @@ tags: [research, publication, civic-tech, participatory-design, hci]
 thumbnail-img: /assets/img/
 share-img: /assets/img/
 ---
+Me and the homies did a new paper in the ACM Interactions magazine and its a topic I am very excited about - what do we leave behind when we do research projects in civic arenas (or any other arenas for that matter)?
 
 ## Paper Summary
 
@@ -41,7 +42,7 @@ Andrea Hamm, Yuya Shibuya, Teresa Cerratto Pargman, Roy Bendor, Christoph Raetzs
 Mennatullah Hendawy, Rainer Rehak, Gwen Klerks, Ben Schouten, and Nicolai Brodersen Hansen. 
 2024. What Does 'Failure' Mean in Civic Tech? We Need Continued Conversations About 
 Discontinuation. Interactions 31, 2 (March-April 2024), 34–38. 
-DOI: https://doi.org/10.1145/3641815
+DOI: <https://doi.org/10.1145/3641815>
 ```
 
 ---

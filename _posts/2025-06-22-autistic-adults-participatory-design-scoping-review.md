@@ -6,10 +6,11 @@ tags: [research, publication, participatory-design, autism, hci, chi2025]
 thumbnail-img: /assets/img/
 share-img: /assets/img/
 ---
+In alliance with my Irish bestie Laura Maye, I finally managed to put out our fantastic review on how autistic adults are involved in the participatory design of technology. At the fucking CHI conference too WOOOOO. 
+
 
 ## Paper Summary
-
-Our new CHI 2025 paper presents a comprehensive scoping review examining how autistic adults are involved in the participatory design of technology. Together with Laura Maye, we analyzed 11 projects across 18 papers to understand current practices and identify opportunities for more meaningful participation of autistic adults in designing technologies that impact their lives.
+We scoped roughly six thousand papers and then got mad as hell that nobody was doing much WITH autistic folks (mostly FOR or ON **spits**) but still ended up with 11 great projects across 18 papers that actually did some great work. So we analysed those to understand current practices and identify opportunities for more meaningful participation of autistic adults in designing technologies that impact their lives.
 
 The research reveals important insights about how the lived autistic perspective is harnessed in design processes, the infrastructures needed to enhance participation, and the various ways autistic adults contribute their expertise to technological development.
 
@@ -47,7 +48,7 @@ Laura Maye and Nicolai Brodersen Hansen. 2025. Involvement of Autistic Adults in
 Participatory Design of Technology: A Scoping Review. In Proceedings of the 2025 CHI 
 Conference on Human Factors in Computing Systems (CHI '25). Association for Computing 
 Machinery, New York, NY, USA, Article 776, 17 pages. 
-DOI: https://doi.org/10.1145/3706598.3713961
+DOI: <https://doi.org/10.1145/3706598.3713961>
 ```
 
 ---
