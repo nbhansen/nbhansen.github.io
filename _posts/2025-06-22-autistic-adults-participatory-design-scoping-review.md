@@ -3,8 +3,8 @@ layout: post
 title: "Involvement of Autistic Adults in the Participatory Design of Technology"
 subtitle: "New CHI 2025 paper - A Scoping Review"
 tags: [research, publication, participatory-design, autism, hci, chi2025]
-thumbnail-img: /assets/img/
-share-img: /assets/img/
+thumbnail-img: /assets/img/workshop-collaboration.jpg
+share-img: /assets/img/workshop-collaboration.jpg
 ---
 In alliance with my Irish bestie Laura Maye, I finally managed to put out our fantastic review on how autistic adults are involved in the participatory design of technology. At the fucking CHI conference too WOOOOO. 
 
