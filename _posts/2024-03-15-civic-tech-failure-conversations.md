@@ -37,13 +37,13 @@ Key themes include the need to understand civic tech as sociotechnical infrastru
 
 ## Citation
 
-```
+
 Andrea Hamm, Yuya Shibuya, Teresa Cerratto Pargman, Roy Bendor, Christoph Raetzsch, 
 Mennatullah Hendawy, Rainer Rehak, Gwen Klerks, Ben Schouten, and Nicolai Brodersen Hansen. 
 2024. What Does 'Failure' Mean in Civic Tech? We Need Continued Conversations About 
 Discontinuation. Interactions 31, 2 (March-April 2024), 34–38. 
 DOI: <https://doi.org/10.1145/3641815>
-```
+
 
 ---
 

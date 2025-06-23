@@ -42,14 +42,11 @@ The review identifies several important directions for future work:
 - **Conference**: CHI 2025 Conference on Human Factors in Computing Systems
 
 ## Citation
-
-```
 Laura Maye and Nicolai Brodersen Hansen. 2025. Involvement of Autistic Adults in the 
 Participatory Design of Technology: A Scoping Review. In Proceedings of the 2025 CHI 
 Conference on Human Factors in Computing Systems (CHI '25). Association for Computing 
 Machinery, New York, NY, USA, Article 776, 17 pages. 
 DOI: <https://doi.org/10.1145/3706598.3713961>
-```
 
 ---
 
